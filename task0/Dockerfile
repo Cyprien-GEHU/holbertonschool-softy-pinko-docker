@@ -1,4 +1,4 @@
-from ubuntu:latest
+FROM ubuntu:latest
 
 RUN apt-get update && apt-get update -y
 
